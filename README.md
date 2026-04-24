@@ -32,20 +32,24 @@ like. That's how better images close more jobs.
 <tr>
 <td><img src="docs/examples/01_addition_01_deck_compare.jpg" width="100%"></td>
 <td><img src="docs/examples/01_addition_02_deck_compare.jpg" width="100%"></td>
-<td><img src="docs/examples/01_addition_04_screened_porch_compare.jpg" width="100%"></td>
 </tr>
 <tr>
+<td><img src="docs/examples/01_addition_04_screened_porch_compare.jpg" width="100%"></td>
 <td><img src="docs/examples/01_addition_05_exterior_compare.jpg" width="100%"></td>
+</tr>
+<tr>
 <td><img src="docs/examples/01_addition_07_front_compare.jpg" width="100%"></td>
 <td><img src="docs/examples/01_addition_08_exterior_compare.jpg" width="100%"></td>
 </tr>
 <tr>
 <td><img src="docs/examples/01_addition_12_backyard_compare.jpg" width="100%"></td>
 <td><img src="docs/examples/01_addition_15_kitchen_compare.jpg" width="100%"></td>
-<td><img src="docs/examples/01_addition_16_living_room_compare.jpg" width="100%"></td>
 </tr>
 <tr>
+<td><img src="docs/examples/01_addition_16_living_room_compare.jpg" width="100%"></td>
 <td><img src="docs/examples/01_addition_17_kitchen_compare.jpg" width="100%"></td>
+</tr>
+<tr>
 <td><img src="docs/examples/01_addition_18_kitchen_compare.jpg" width="100%"></td>
 <td></td>
 </tr>
