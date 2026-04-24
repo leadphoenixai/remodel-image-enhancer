@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated outputs — regenerate from input/ instead of committing
+enhanced/
+
+# User's source images — don't commit other people's photos
+input/*
+!input/.gitkeep
+
+# OS junk
+.DS_Store
+Thumbs.db
