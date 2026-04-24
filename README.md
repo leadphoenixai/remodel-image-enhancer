@@ -8,6 +8,49 @@ The logic lives in markdown, not Python. You run `claude` in the repo, Claude
 reads the skill, and Claude writes and executes small throwaway scripts to do
 the work. Nothing is hard-coded; tweak the markdown, get different behavior.
 
+## Examples
+
+Here are some images that were enhanced by this repo. The top of each frame
+is the original photo straight from a phone or jobsite camera; the bottom is
+the enhanced version the skill produced — same framing, same structure, just
+cleaned up, relit, and staged to a listing-grade finish.
+
+### Why this matters for remodelers
+
+Your craftsmanship sells the job, but a $100K deck rebuild or a gut-reno
+kitchen rarely shows up that way in the photos your crew snaps on-site —
+overcast skies, muddy yards, bare staging, harsh overhead light, background
+clutter. Prospects scrolling your website, Instagram, or a proposal PDF see
+the *photo*, not the craftsmanship. This skill takes the pictures you
+already have and turns them into the versions you *wish* you had — without
+reshoots, without staging days, without a photographer on retainer. More
+portfolio polish, faster turnaround on proposals, more callbacks from
+remodelers who can finally see what the finished space will actually feel
+like. That's how better images close more jobs.
+
+<table>
+<tr>
+<td><img src="docs/examples/01_addition_01_deck_compare.jpg" width="100%"></td>
+<td><img src="docs/examples/01_addition_02_deck_compare.jpg" width="100%"></td>
+<td><img src="docs/examples/01_addition_04_screened_porch_compare.jpg" width="100%"></td>
+</tr>
+<tr>
+<td><img src="docs/examples/01_addition_05_exterior_compare.jpg" width="100%"></td>
+<td><img src="docs/examples/01_addition_07_front_compare.jpg" width="100%"></td>
+<td><img src="docs/examples/01_addition_08_exterior_compare.jpg" width="100%"></td>
+</tr>
+<tr>
+<td><img src="docs/examples/01_addition_12_backyard_compare.jpg" width="100%"></td>
+<td><img src="docs/examples/01_addition_15_kitchen_compare.jpg" width="100%"></td>
+<td><img src="docs/examples/01_addition_16_living_room_compare.jpg" width="100%"></td>
+</tr>
+<tr>
+<td><img src="docs/examples/01_addition_17_kitchen_compare.jpg" width="100%"></td>
+<td><img src="docs/examples/01_addition_18_kitchen_compare.jpg" width="100%"></td>
+<td></td>
+</tr>
+</table>
+
 ## What it does
 
 For every image you drop into `input/`:
