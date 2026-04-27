@@ -1,12 +1,7 @@
 # Remodel Image Enhancer
 
 A Claude Code skill that turns raw construction / remodel / real-estate photos into
-clean, listing-quality images using **Claude** (for scene analysis and prompt
-generation) and **fal.ai** (nano-banana-2/edit model for the actual enhancement).
-
-The logic lives in markdown, not Python. You run `claude` in the repo, Claude
-reads the skill, and Claude writes and executes small throwaway scripts to do
-the work. Nothing is hard-coded; tweak the markdown, get different behavior.
+clean, listing-quality images.
 
 ## Examples
 
@@ -28,32 +23,19 @@ portfolio polish, faster turnaround on proposals, more callbacks from
 remodelers who can finally see what the finished space will actually feel
 like. That's how better images close more jobs.
 
-<table>
-<tr>
-<td><img src="docs/examples/01_addition_01_deck_compare.jpg" width="100%"></td>
-<td><img src="docs/examples/01_addition_02_deck_compare.jpg" width="100%"></td>
-</tr>
-<tr>
-<td><img src="docs/examples/01_addition_04_screened_porch_compare.jpg" width="100%"></td>
-<td><img src="docs/examples/01_addition_05_exterior_compare.jpg" width="100%"></td>
-</tr>
-<tr>
-<td><img src="docs/examples/01_addition_07_front_compare.jpg" width="100%"></td>
-<td><img src="docs/examples/01_addition_08_exterior_compare.jpg" width="100%"></td>
-</tr>
-<tr>
-<td><img src="docs/examples/01_addition_12_backyard_compare.jpg" width="100%"></td>
-<td><img src="docs/examples/01_addition_15_kitchen_compare.jpg" width="100%"></td>
-</tr>
-<tr>
-<td><img src="docs/examples/01_addition_16_living_room_compare.jpg" width="100%"></td>
-<td><img src="docs/examples/01_addition_17_kitchen_compare.jpg" width="100%"></td>
-</tr>
-<tr>
-<td><img src="docs/examples/01_addition_18_kitchen_compare.jpg" width="100%"></td>
-<td></td>
-</tr>
-</table>
+<p align="center">
+  <img src="docs/examples/01_addition_01_deck_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_02_deck_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_04_screened_porch_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_05_exterior_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_07_front_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_08_exterior_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_12_backyard_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_15_kitchen_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_16_living_room_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_17_kitchen_compare.jpg" width="500"><br><br>
+  <img src="docs/examples/01_addition_18_kitchen_compare.jpg" width="500">
+</p>
 
 ## What it does
 
